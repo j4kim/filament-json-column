@@ -9,11 +9,6 @@ Now supports **Filament 4.x** with the new unified schema system!
 - **v3.x**: Filament 4.x, Laravel 11.x, PHP 8.2+
 - **v2.x**: Filament 3.x, Laravel 10.x+, PHP 8.1+ (maintenance branch)
 
-## v2.0 BREAKING CHANGE
-Class is now named `JsonColumn/JsonInfolist`, previously `FilamentJsonColumn`
-
----
-
 A simple package to view and edit your JSON columns in Filament 4.
 
 ![image](https://github.com/valentin-morice/filament-json-column/assets/100000204/41212480-f635-4d50-b967-cad5dbda6dc9)
